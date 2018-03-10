@@ -1,0 +1,4 @@
+Programme d'insertion de vis automatique :
+
+Installer le catalogue de vis dans C:\Program Files (x86)\Dassault Systemes\B19\catalogue_vis_ecrou_rondelle
+
